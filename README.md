@@ -1,3 +1,3 @@
 # EmailSenderApp
 
-Web сервис, предоставляет api, который умеет отправлять email на почту, записываться в бд, и выводить все данные из базы данных. Технологии, которые использовались(MailKit, EntityFramework, postgresql, asp 6.0)
+Web service, with email send api. Technologies: c#, postgresql, entityframework, asp 6.0
